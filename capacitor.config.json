@@ -1,6 +1,6 @@
 {
   "appId": "com.zakkerni.app",
-  "appName": "ذكرني",
+  "appName": "فكرني",
   "webDir": "www",
   "plugins": {
     "LocalNotifications": {
